@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently studying Bachelor's in Computer Science in INTI International College Penang.
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,r,js,html,css,androidstudio)](https://skillicons.dev)
+
 <!--
 **calvin050101/calvin050101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
